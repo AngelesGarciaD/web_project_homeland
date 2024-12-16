@@ -5,6 +5,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: "Inter", "Arial", "sans-serif";
 }
 .body{
     background-color: #2A2C2F;
