@@ -26,15 +26,8 @@
     margin: 48px 0;
     box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
 }
-.place__button-frame{
-    grid-area: button;
-    max-width: 355px;
-    max-height: 48px;
-    border-radius: 3px;
-    display: flex;
-    align-items: center;
-    margin-top: 48px;
-    transition: background-color 0.5s ease;
+.place__image:hover{
+    opacity: 25%;
 }
 .place__button{
     grid-area: button;
@@ -53,7 +46,7 @@
     text-decoration: none;
 }
 .place__button:hover{
-    background: #0063D2;
+    background-image: linear-gradient(to right, #003a7f, #00083a);
 }
 .place__artist{
     grid-area: artist;
