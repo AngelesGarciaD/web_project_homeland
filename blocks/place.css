@@ -35,7 +35,7 @@
     max-height: 24px;
     border-radius: 5px;
     padding: 13px 20px;
-    background:linear-gradient(to right, #0278fe, #003a7b);
+    background:linear-gradient(90deg, #0278fe, #003a7b);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
     color: #FFF;
     text-align: center;
@@ -46,7 +46,7 @@
     text-decoration: none;
 }
 .place__button:hover{
-    background: linear-gradient(to right, #003a7f, #00083a);
+    background: linear-gradient(90deg, #003a7f, #00083a);
 }
 .place__artist{
     grid-area: artist;
