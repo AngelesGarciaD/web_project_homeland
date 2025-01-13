@@ -46,7 +46,7 @@
     text-decoration: none;
 }
 .place__button:hover{
-    background: linear-gradient(90deg, #003a7f, #00083a);
+    background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
 }
 .place__artist{
     grid-area: artist;
