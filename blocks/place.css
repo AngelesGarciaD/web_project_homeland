@@ -53,9 +53,6 @@
     transition: background-color 0.5s ease;
     text-decoration: none;
 }
-.place__button:hover{
-    background: #0063D2;
-}
 .place__artist{
     grid-area: artist;
     align-self: flex-end;
